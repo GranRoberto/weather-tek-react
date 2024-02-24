@@ -1,4 +1,4 @@
-### WeatherTek
+### WeatherTek ⛅
 
 WeatherTek es una aplicación de pronóstico del tiempo que te permite obtener información meteorológica precisa y actualizada para cualquier ubicación en todo el mundo. Esta aplicación fue desarrollada utilizando tecnologías modernas como Tailwind CSS, React y Vite, lo que garantiza una experiencia de usuario fluida y receptiva.
 
